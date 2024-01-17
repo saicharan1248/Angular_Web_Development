@@ -43,9 +43,11 @@ function getLocalQuotes(){
     authorEle.innerText = "--" + " " + quotesList[i].author
 
 }
+document.getElementById("getQuote").onclick = getLocalQuotes
 
 async function quoteAPI(){
     let response = await fetch("https://api.quotable.io/random");
+
     let quote = await response.json()
     quoteEle.innerText = quote.content
     authorEle.innerText = "--" + " " + quote.author
