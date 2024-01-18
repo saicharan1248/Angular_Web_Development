@@ -5,4 +5,4 @@
 - quoteAPI
 -  * let response = await fetch("https://api.quotable.io/random");
 
-   * let quote = await response.json() *
+   * let quote = await response.json() 
