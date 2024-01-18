@@ -4,3 +4,4 @@
 2. Quote_Generator
 3. TodoList
 4. Calculator
+5. Weather App
