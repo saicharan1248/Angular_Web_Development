@@ -6,3 +6,4 @@
 4. Calculator
 5. Weather App
 6. Text to Speech 
+7. Spinning Machine
