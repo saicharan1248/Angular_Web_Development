@@ -10,6 +10,6 @@
 
 ## Prerequisite
 
-npm init
-npm i prompt-sync
-node project.js
+- npm init
+- npm i prompt-sync
+- node project.js
