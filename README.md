@@ -10,3 +10,5 @@
 6. Text to Speech
 7. Spinning Machine
 8. Portfolio Using HTML, CSS, JavaScript
+9. position concepts.
+10. Basic javascript project
