@@ -35,13 +35,14 @@ body {
 }
 
 .box {
-  display: inline-block;
   width: 150px;
   height: 150px;
   color: #fff;
   padding: 1rem;
 }
 .heading-box {
+  display: flex;
+  flex-flow: row wrap;
   background-color: #00f;
   margin: 28px 0px;
   top: 0;
