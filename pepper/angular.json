@@ -109,6 +109,23 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {
+            "version": 2
+          },
+          "configurations": {
+            "production": {
+              "buildTarget": "pepper:build:production",
+              "serveTarget": "pepper:serve:production"
+            },
+            "development": {
+              "buildTarget": "pepper:build:development",
+              "serveTarget": "pepper:serve:development"
+            }
+          },
+          "defaultConfiguration": "production"
         }
       }
     }

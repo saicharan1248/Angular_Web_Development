@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "pepper-3524f": {
+      "hosting": {
+        "pepper": [
+          "pepper-3524f"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "pepper-3524f"
+  }
+}
