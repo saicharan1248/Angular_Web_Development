@@ -25,7 +25,7 @@ const users = {
     firstName: "sai",
     lastName: "charan",
     email: "saicharan@gmail.com",
-    password: "saach@0826",
+    password: "password",
   },
 };
 let cart = [];
